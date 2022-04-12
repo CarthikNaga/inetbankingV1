@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 77.696 s <<< FAILURE! - in TestSuite
+loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 5.214 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:36)
+
+loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 5.593 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:36)
+
+loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 5.376 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:36)
+
